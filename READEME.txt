@@ -1,3 +1,6 @@
 Tentando fazer alterações dentro do GIT
 
 Deveria ter controle do conteúdo.
+
+- verificação de usuário
+- inserção de token para utilização.
